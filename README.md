@@ -17,7 +17,8 @@ ___
 
 ___
 
-    You can change the sourceLanguage (sl) and targetLanguage (tl) from 'constants.py' for translating between different languages
+    You can change the sourceLanguage (sl) and targetLanguage (tl) from 'constants.py'
+    for translating between different languages
 
 ___
 
