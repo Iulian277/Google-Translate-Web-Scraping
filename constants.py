@@ -1,15 +1,16 @@
 ##### USER INPUT #####
-OUTPUT_DIR_PATH = "ro/"
+OUTPUT_DIR_PATH = "outDir/"
 
-MOST_COMMON_WORDS = "most_common_words.txt"
+WORDS_TO_TRANSLATE = "words_to_translate.txt"
+
+###### DRIVER #####
+CHROME_DRIVER_PATH = "F:\PycharmProjects\Selenium\chromedriver.exe"
 
 ##### GOOGLE TRANSLATE URL #####
 sl="en" # sourceLanguage
 tl="ro" # targetLanguage
 URL = "https://translate.google.ro/?hl=en&sl=" + sl + "&tl=" + tl + "&op=translate"
 
-###### DRIVER #####
-CHROME_DRIVER_PATH = "F:\PycharmProjects\Selenium\chromedriver.exe"
 
 ##### XPATHS #####
 I_AGREE_POP_UP = "/html/body/c-wiz/div/div/div/div[2]/div[1]/div[4]/form/div/div/button"

@@ -29,7 +29,7 @@ def init_webdriver(driver):
 
 def readCommonWords():
     commonWords = []
-    with open(constants.MOST_COMMON_WORDS) as file:
+    with open(constants.WORDS_TO_TRANSLATE) as file:
         commonWords = file.readlines()
 
     return commonWords
