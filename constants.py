@@ -4,7 +4,7 @@ OUTPUT_DIR_PATH = "outDir/"
 WORDS_TO_TRANSLATE = "words_to_translate.txt"
 
 ###### DRIVER #####
-CHROME_DRIVER_PATH = "F:\PycharmProjects\Selenium\chromedriver.exe"
+CHROME_DRIVER_PATH = ""
 
 ##### GOOGLE TRANSLATE URL #####
 sl="en" # sourceLanguage
