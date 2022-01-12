@@ -7,7 +7,7 @@
 
 ___
 
-    Put the downloaded path of your chrome driver in the project:
+    Put the path of the downloaded chrome driver in the project:
     In file 'constants.py', put the discussed path in 'CHROME_DRIVER_PATH' variable
     (e.g.: CHROME_DRIVER_PATH = "F:\path\to\chromedriver.exe")
 
