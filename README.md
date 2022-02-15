@@ -22,4 +22,4 @@ ___
 
 ___
 
-    Run the 'main.py' script and the program should run.
+    Run the 'main.py' script and the program will start.
