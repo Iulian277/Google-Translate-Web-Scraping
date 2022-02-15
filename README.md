@@ -1,6 +1,6 @@
 # Small Python Selenium Script for translating words from google-translate
 
-# Usage
+## Usage
 
     Download the ChromeDriver for you Chrome version
     https://sites.google.com/chromium.org/driver/downloads
