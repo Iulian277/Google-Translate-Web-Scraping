@@ -1,4 +1,4 @@
-# Small Python Selenium Script for translating words from google-translate
+# Small Python Selenium Script for translating words on google-translate
 
 ## Usage
 
